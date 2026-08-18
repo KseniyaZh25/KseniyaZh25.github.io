@@ -9,18 +9,18 @@ body {
   margin: 0 auto;
 }
 
-work div {
+.work div {
 background-color: #FFB6C1;
  margin: 10px;
  border-radius: 20 px;
 }
 
-super h2 {
+.super h2 {
   text-decoration: underline;
   }
 
-name div {
-  backgrou-color: #fff9dc;
+.name div {
+  background-color: #fff9dc;
   margin: 10px;
   border-radius: 20 px;
 }
@@ -31,7 +31,7 @@ h1 {
   margin-bottom: 0;
 }
 
-small div {
+.small div {
   background-color: #e5ffe7;
   margin: 10px;
   border-radius: 20 px;
