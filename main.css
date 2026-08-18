@@ -11,17 +11,17 @@ body {
 
 .work {
 background-color: #FFB6C1;
- margin: 10px;
+ margin: 20px;
  border-radius: 20px;
 }
 
-.super section {
+.super {
   text-decoration: underline;
   }
 
 .name {
   background-color: #fff9dc;
-  margin: 10px;
+  margin: 20px;
   border-radius: 20px;
 }
 
@@ -33,7 +33,7 @@ h1 {
 
 .small {
   background-color: #e5ffe7;
-  margin: 10px;
+  margin: 20px;
   border-radius: 20px;
 }
 
