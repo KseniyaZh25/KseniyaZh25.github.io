@@ -9,7 +9,7 @@ body {
   margin: 0 auto;
 }
 
-.work div {
+.work {
 background-color: #FFB6C1;
  margin: 10px;
  border-radius: 20px;
@@ -19,7 +19,7 @@ background-color: #FFB6C1;
   text-decoration: underline;
   }
 
-.name div {
+.name {
   background-color: #fff9dc;
   margin: 10px;
   border-radius: 20px;
@@ -31,7 +31,7 @@ h1 {
   margin-bottom: 0;
 }
 
-.small div {
+.small {
   background-color: #e5ffe7;
   margin: 10px;
   border-radius: 20px;
